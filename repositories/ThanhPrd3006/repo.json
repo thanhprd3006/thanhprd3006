@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "identifier": "dev.mrpew6007.mrpewios",
+  "name": "MrPewiOS Repository",
+  "description": "Nguồn phục vụ cho game cỏ lặc Free Fire.",
+  "accentColor": "#ca9ee6",
+  "icon": "assets/repository-icon.png"
+}
